@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|c:\\users\\eshop\\source\\repos\\addtocart\\addtocart\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|solutionrelative:addtocart\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|c:\\users\\eshop\\source\\repos\\addtocart\\addtocart\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|solutionrelative:addtocart\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|c:\\users\\eshop\\source\\repos\\addtocart\\addtocart\\model\\productcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|solutionrelative:addtocart\\model\\productcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|c:\\users\\eshop\\source\\repos\\addtocart\\addtocart\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|solutionrelative:addtocart\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|c:\\users\\eshop\\source\\repos\\addtocart\\addtocart\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|solutionrelative:addtocart\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|c:\\users\\eshop\\source\\repos\\addtocart\\addtocart\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|solutionrelative:addtocart\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|c:\\users\\eshop\\source\\repos\\addtocart\\addtocart\\model\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|solutionrelative:addtocart\\model\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|c:\\users\\eshop\\source\\repos\\addtocart\\addtocart\\migrations\\20241028072752_22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D9AA1-78D1-498B-92F8-AF8F8A5BA4B4}|AddToCart\\AddToCart.csproj|solutionrelative:addtocart\\migrations\\20241028072752_22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 245,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "AddToCart\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Services\\ProductService.cs",
+              "RelativeToolTip": "AddToCart\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:39:44.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCart.cs",
+              "DocumentMoniker": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Model\\ProductCart.cs",
+              "RelativeDocumentMoniker": "AddToCart\\Model\\ProductCart.cs",
+              "ToolTip": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Model\\ProductCart.cs",
+              "RelativeToolTip": "AddToCart\\Model\\ProductCart.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:34:41.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AddToCart\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AddToCart\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:40:28.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "AddToCart\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Model\\Product.cs",
+              "RelativeToolTip": "AddToCart\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:35:26.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "AddToCart\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Controllers\\CartController.cs",
+              "RelativeToolTip": "AddToCart\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:30:05.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cartitem.cs",
+              "DocumentMoniker": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Model\\cartitem.cs",
+              "RelativeDocumentMoniker": "AddToCart\\Model\\cartitem.cs",
+              "ToolTip": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Model\\cartitem.cs",
+              "RelativeToolTip": "AddToCart\\Model\\cartitem.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:28:46.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241028072752_22.cs",
+              "DocumentMoniker": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Migrations\\20241028072752_22.cs",
+              "RelativeDocumentMoniker": "AddToCart\\Migrations\\20241028072752_22.cs",
+              "ToolTip": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Migrations\\20241028072752_22.cs",
+              "RelativeToolTip": "AddToCart\\Migrations\\20241028072752_22.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:27:54.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "AddToCart\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\ESHOP\\source\\repos\\AddToCart\\AddToCart\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "AddToCart\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:23:17.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
